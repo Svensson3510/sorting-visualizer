@@ -1,0 +1,11 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Sorting visualizer made with DOM.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "author": "Malte Svensson",
+  "license": "ISC"
+}
