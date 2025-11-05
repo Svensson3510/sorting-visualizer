@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let myArray = []
 let itemAmount = 50
 let i = 0
